@@ -8,6 +8,8 @@ while True:
         break
     elif number == 2:
         print('Номер диретора: +7888-888-88-88')
+	print('e-mail Диретора: klin@mail.ru')
         break
     else:
         print('Неверные данные, попробуйте еще раз!\n')
+	print('Номер тех. поддержки: 8-800-88-88')
