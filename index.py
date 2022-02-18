@@ -7,7 +7,7 @@ while True:
         print('Номер разработчика: +7555-555-55-55')
         break
     elif number == 2:
-        print('Номер диретора: +7888-888-88-88')
+        print('Номер диретора: +7999-999-99-99')
 	print('e-mail Диретора: klin@mail.ru')
         break
     else:
