@@ -5,6 +5,7 @@ while True:
     number = int(input('Введите код клиента: '))
     if number == 1:
         print('Номер разработчика: +7999-999-99-99')
+	print('e-mail разработчика: novoklin@mail.ru')
         break
     elif number == 2:
         print('Номер диретора: +7888-888-88-88')
